@@ -1,9 +1,0 @@
-#!/usr/bin/env bash
-
-# mock rc file for simplemonitor
-
-if [[ $1 != 'status' ]]; then
-	exit 128
-fi
-
-exit 0

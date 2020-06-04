@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-# mock exiqgrep for simplemonitor
-
-echo "100 matches out of 100 messages"

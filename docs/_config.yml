@@ -1,5 +1,0 @@
----
-highlighter: rouge
-baseurl: /simplemonitor
-exclude:
-  - vendor
